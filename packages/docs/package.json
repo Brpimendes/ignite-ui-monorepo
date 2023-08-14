@@ -34,9 +34,5 @@
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "storybook-deployer": {
-    "gitUsername": "Brpimendes",
-    "gitEmail": "brpimendes@gmail.com"
   }
 }
